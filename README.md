@@ -1,6 +1,6 @@
 ## Interview Prep Practive Problems for CS 1.2
 
-### Create a method to reverse a linked lsit
+### Create a method to reverse a linked list
 
 ### Create a function to reverse an integer  using a stack
 
